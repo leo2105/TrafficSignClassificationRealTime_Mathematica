@@ -23,7 +23,7 @@ Main file: "ProjectSummerSchool"
 
 Notebook to run: "ProjectSummerSchool/Template.nb"
 
-Weights of CNN: "ProjectSummerSchool/"
+Weights of CNN: "ProjectSummerSchool/net.m"
 
 Notebook of experimentations: "Project.nb"
 
