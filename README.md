@@ -20,8 +20,11 @@ Another example where it can differentiate from other speed limit signs accurate
 ![Images](./ProjectSummerSchool/imagesTest/limit30Test.png)
 
 Main file: "ProjectSummerSchool"
+
 Notebook to run: "ProjectSummerSchool/Template.nb"
+
 Weights of CNN: "ProjectSummerSchool/"
+
 Notebook of experimentations: "Project.nb"
 
 
